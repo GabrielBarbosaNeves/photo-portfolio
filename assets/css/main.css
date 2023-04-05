@@ -2251,6 +2251,12 @@ input, select, textarea {
 		background-repeat: repeat, no-repeat;
 	}
 
+	#intro p{
+		font-size: 30px;
+		box-shadow: #39454b;
+		
+	}
+
 /* One */
 
 	#one {
